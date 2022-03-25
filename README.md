@@ -17,3 +17,5 @@ Select the step & Use **Edit** button or **Ctrl + E** shortcut to invoke the edi
 ![image](https://user-images.githubusercontent.com/87473267/160153263-abb910b7-5e8f-4365-9588-a4caaa2c7aaa.png)
 
 
+## Presentation
+[CHNLUG M4 - Extending TestStand Functionality by Custom Step Types.pdf](CHNLUG%20M4%20-%20Extending%20TestStand%20Functionality%20by%20Custom%20Step%20Types.pdf)
